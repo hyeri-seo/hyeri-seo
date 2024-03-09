@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD8D8&height=300&section=header&text=Hyeri's%20github&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5B7EFF&height=300&section=header&text=Hyeri's%20github&fontSize=90&fontColor=FFFFFF" />
 
   <div align=center>
   	<h3>📚 Tech Stack 📚</h3>
@@ -58,5 +58,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyeri-seo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=bear&hide_border=false" height="150" alt="languages graph"/>
   </div><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD8D8&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5B7EFF&height=200&section=footer" />
 </div>
