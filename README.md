@@ -38,6 +38,7 @@
 
   <div align=center>
 	  <p>🎨 SNS & Portfolio 🎨</p>
+	  <p>↓ Click these ↓</p>
   </div>
   <div align=center>
   	<a href="https://github.com/hyeri-seo?tab=stars">
