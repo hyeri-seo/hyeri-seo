@@ -38,7 +38,7 @@
 	  <p>🎨 SNS & Portfolio 🎨</p>
   </div>
   <div align=center>
-  	<a href="#">
+  	<a href="https://github.com/hyeri-seo?tab=stars">
   		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
   	</a>
   	<a href="https://sproutinghye.tistory.com/">
